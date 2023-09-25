@@ -1,0 +1,36 @@
+body{
+    
+    
+    background-size:cover;
+
+}  
+h3{
+
+background-color: g;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    ; 
+}
+
+.spinning_left{
+    float:left;
+}
+
+.spinning_right{
+    float:right;
+}
+
+#speed{
+    margin: 2px;
+}
+
+canvas{
+    border: 5px solid white;
+border-radius: 5px;
+margin-top: 35px;
+}
